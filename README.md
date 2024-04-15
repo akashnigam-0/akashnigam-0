@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Nigam</h1>
-<h3 align="center">A passionate frontend developer from India and driven computer science student looking to expand skill set in emerging technologies</h3>
+<h3 align="center">A passionate developer from India and driven computer science student looking to expand skill set in emerging technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashnigam-0&label=Profile%20views&color=0e75b6&style=flat" alt="akashnigam-0" /> </p>
 
