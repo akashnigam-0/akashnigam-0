@@ -7,7 +7,7 @@
 - 👨‍💻 All of my automation and software projects are available at [https://github.com/akashnigam-0](https://github.com/akashnigam-0)
 - 💬 Ask me about **Test Automation Frameworks, API Testing, Java, Selenium WebDriver, Playwright, Jenkins**
 - 📫 How to reach me **akashnigam0001@gmail.com**
-- 📄 View my detailed experiences and certifications here: [Resume (Google Drive)](https://drive.google.com/file/d/1zfr0ZUA1JsKpJbIXc7f6PNcT_4BnI5J5/view?usp=sharing)
+- 📄 View my detailed experiences and certifications here: https://www.linkedin.com/in/akash-nigam-87a689201/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
